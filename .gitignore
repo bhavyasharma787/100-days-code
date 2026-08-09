@@ -1,0 +1,18 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# Temporary files created by File Handling exercises
+info.txt
+sample.txt
+source.txt
+destination.txt
+data.txt
+input.txt
+output.txt
+numbers.txt
+students.txt
+employees.dat
