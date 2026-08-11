@@ -15,3 +15,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 02 | 2026-08-10 | Q3: Write a program to calculate the area and perimeter of a rectangle give… | User Inputs, Operations & Output | [`Day02/q003.c`](Day02/q003.c) |
 | Day 02 | 2026-08-10 | Q4: Write a program to calculate the area and circumference of a circle giv… | User Inputs, Operations & Output | [`Day02/q004.c`](Day02/q004.c) |
 | Day 03 | 2026-08-11 | Q5: Write a program to convert temperature from Celsius to Fahrenheit. | User Inputs, Operations & Output | [`Day03/q005.c`](Day03/q005.c) |
+| Day 03 | 2026-08-11 | Q6: Write a program to swap two numbers using a third variable. | User Inputs, Operations & Output | [`Day03/q006.c`](Day03/q006.c) |
