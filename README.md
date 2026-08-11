@@ -14,3 +14,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 01 | 2026-08-09 | Q2: Write a program to input two numbers and display their sum, difference,… | User Inputs, Operations & Output | [`Day01/q002.c`](Day01/q002.c) |
 | Day 02 | 2026-08-10 | Q3: Write a program to calculate the area and perimeter of a rectangle give… | User Inputs, Operations & Output | [`Day02/q003.c`](Day02/q003.c) |
 | Day 02 | 2026-08-10 | Q4: Write a program to calculate the area and circumference of a circle giv… | User Inputs, Operations & Output | [`Day02/q004.c`](Day02/q004.c) |
+| Day 03 | 2026-08-11 | Q5: Write a program to convert temperature from Celsius to Fahrenheit. | User Inputs, Operations & Output | [`Day03/q005.c`](Day03/q005.c) |
