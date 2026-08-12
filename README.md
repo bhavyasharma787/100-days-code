@@ -16,3 +16,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 02 | 2026-08-10 | Q4: Write a program to calculate the area and circumference of a circle giv… | User Inputs, Operations & Output | [`Day02/q004.c`](Day02/q004.c) |
 | Day 03 | 2026-08-11 | Q5: Write a program to convert temperature from Celsius to Fahrenheit. | User Inputs, Operations & Output | [`Day03/q005.c`](Day03/q005.c) |
 | Day 03 | 2026-08-11 | Q6: Write a program to swap two numbers using a third variable. | User Inputs, Operations & Output | [`Day03/q006.c`](Day03/q006.c) |
+| Day 04 | 2026-08-12 | Q7: Write a program to swap two numbers without using a third variable. | User Inputs, Operations & Output | [`Day04/q007.c`](Day04/q007.c) |
