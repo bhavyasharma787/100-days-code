@@ -20,3 +20,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 04 | 2026-08-12 | Q8: Write a program to find and display the sum of the first n natural numb… | User Inputs, Operations & Output | [`Day04/q008.c`](Day04/q008.c) |
 | Day 05 | 2026-08-13 | Q9: Write a program to calculate simple and compound interest for given pri… | User Inputs, Operations & Output | [`Day05/q009.c`](Day05/q009.c) |
 | Day 05 | 2026-08-13 | Q10: Write a program to input time in seconds and convert it to hours:minute… | User Inputs, Operations & Output | [`Day05/q010.c`](Day05/q010.c) |
+| Day 06 | 2026-08-14 | Q11: Write a program to input an integer and check whether it is even or odd… | Conditional Statements | [`Day06/q011.c`](Day06/q011.c) |
