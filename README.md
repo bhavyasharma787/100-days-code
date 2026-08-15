@@ -23,3 +23,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 06 | 2026-08-14 | Q11: Write a program to input an integer and check whether it is even or odd… | Conditional Statements | [`Day06/q011.c`](Day06/q011.c) |
 | Day 06 | 2026-08-14 | Q12: Write a program to input an integer and check whether it is positive, n… | Conditional Statements | [`Day06/q012.c`](Day06/q012.c) |
 | Day 07 | 2026-08-15 | Q13: Write a program to input a year and check whether it is a leap year or… | Conditional Statements | [`Day07/q013.c`](Day07/q013.c) |
+| Day 07 | 2026-08-15 | Q14: Write a program to input a character and check whether it is a vowel or… | Conditional Statements | [`Day07/q014.c`](Day07/q014.c) |
