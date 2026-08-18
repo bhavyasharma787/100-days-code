@@ -29,3 +29,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 09 | 2026-08-17 | Q17: Write a program to find the roots of a quadratic equation and categoriz… | Conditional Statements | [`Day09/q017.c`](Day09/q017.c) |
 | Day 09 | 2026-08-17 | Q18: Write a program that accepts a percentage (0-100) and assigns a grade b… | Conditional Statements | [`Day09/q018.c`](Day09/q018.c) |
 | Day 10 | 2026-08-18 | Q19: Write a program to classify a triangle as Equilateral, Isosceles, or Sc… | Conditional Statements | [`Day10/q019.c`](Day10/q019.c) |
+| Day 10 | 2026-08-18 | Q20: Write a program to display the day of the week based on a number (1–7)… | Conditional Statements | [`Day10/q020.c`](Day10/q020.c) |
