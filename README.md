@@ -31,3 +31,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 10 | 2026-08-18 | Q19: Write a program to classify a triangle as Equilateral, Isosceles, or Sc… | Conditional Statements | [`Day10/q019.c`](Day10/q019.c) |
 | Day 10 | 2026-08-18 | Q20: Write a program to display the day of the week based on a number (1–7)… | Conditional Statements | [`Day10/q020.c`](Day10/q020.c) |
 | Day 11 | 2026-08-19 | Q21: Write a program to display the month name and number of days using swit… | Conditional Statements | [`Day11/q021.c`](Day11/q021.c) |
+| Day 11 | 2026-08-19 | Q22: Write a program to find profit or loss percentage given cost price and… | Conditional Statements | [`Day11/q022.c`](Day11/q022.c) |
