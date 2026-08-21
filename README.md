@@ -34,3 +34,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 11 | 2026-08-19 | Q22: Write a program to find profit or loss percentage given cost price and… | Conditional Statements | [`Day11/q022.c`](Day11/q022.c) |
 | Day 12 | 2026-08-20 | Q23: Write a program to calculate library fine based on late days as follows… | Conditional Statements | [`Day12/q023.c`](Day12/q023.c) |
 | Day 12 | 2026-08-20 | Q24: Write a program to calculate electricity bill based on units consumed w… | Conditional Statements | [`Day12/q024.c`](Day12/q024.c) |
+| Day 13 | 2026-08-21 | Q25: Write a program to implement a basic calculator using switch-case for +… | Conditional Statements | [`Day13/q025.c`](Day13/q025.c) |
