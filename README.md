@@ -42,3 +42,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 15 | 2026-08-23 | Q30: Write a program to reverse a given number. | Loops without Arrays/Strings | [`Day15/q030.c`](Day15/q030.c) |
 | Day 16 | 2026-08-24 | Q31: Write a program to take a number as input and print its equivalent bina… | Loops without Arrays/Strings | [`Day16/q031.c`](Day16/q031.c) |
 | Day 16 | 2026-08-24 | Q32: Write a program to check if a number is a palindrome. | Loops without Arrays/Strings | [`Day16/q032.c`](Day16/q032.c) |
+| Day 17 | 2026-08-25 | Q33: Write a program to check if a number is an Armstrong number. | Loops without Arrays/Strings | [`Day17/q033.c`](Day17/q033.c) |
