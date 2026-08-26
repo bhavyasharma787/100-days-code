@@ -45,3 +45,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 17 | 2026-08-25 | Q33: Write a program to check if a number is an Armstrong number. | Loops without Arrays/Strings | [`Day17/q033.c`](Day17/q033.c) |
 | Day 17 | 2026-08-25 | Q34: Write a program to check if a number is prime. | Loops without Arrays/Strings | [`Day17/q034.c`](Day17/q034.c) |
 | Day 18 | 2026-08-26 | Q35: Write a program to print all factors of a given number. | Loops without Arrays/Strings | [`Day18/q035.c`](Day18/q035.c) |
+| Day 18 | 2026-08-26 | Q36: Write a program to find the HCF (GCD) of two numbers. | Loops without Arrays/Strings | [`Day18/q036.c`](Day18/q036.c) |
