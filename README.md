@@ -48,3 +48,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 18 | 2026-08-26 | Q36: Write a program to find the HCF (GCD) of two numbers. | Loops without Arrays/Strings | [`Day18/q036.c`](Day18/q036.c) |
 | Day 19 | 2026-08-27 | Q37: Write a program to find the LCM of two numbers. | Loops without Arrays/Strings | [`Day19/q037.c`](Day19/q037.c) |
 | Day 19 | 2026-08-27 | Q38: Write a program to find the sum of digits of a number. | Loops without Arrays/Strings | [`Day19/q038.c`](Day19/q038.c) |
+| Day 20 | 2026-08-28 | Q39: Write a program to find the product of odd digits of a number. | Loops without Arrays/Strings | [`Day20/q039.c`](Day20/q039.c) |
