@@ -50,3 +50,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 19 | 2026-08-27 | Q38: Write a program to find the sum of digits of a number. | Loops without Arrays/Strings | [`Day19/q038.c`](Day19/q038.c) |
 | Day 20 | 2026-08-28 | Q39: Write a program to find the product of odd digits of a number. | Loops without Arrays/Strings | [`Day20/q039.c`](Day20/q039.c) |
 | Day 20 | 2026-08-28 | Q40: Write a program to find the 1’s complement of a binary number and print… | Loops without Arrays/Strings | [`Day20/q040.c`](Day20/q040.c) |
+| Day 21 | 2026-08-29 | Q41: Write a program to swap the first and last digit of a number. | Loops without Arrays/Strings | [`Day21/q041.c`](Day21/q041.c) |
