@@ -53,3 +53,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 21 | 2026-08-29 | Q41: Write a program to swap the first and last digit of a number. | Loops without Arrays/Strings | [`Day21/q041.c`](Day21/q041.c) |
 | Day 21 | 2026-08-29 | Q42: Write a program to check if a number is a perfect number. | Loops without Arrays/Strings | [`Day21/q042.c`](Day21/q042.c) |
 | Day 22 | 2026-08-30 | Q43: Write a program to check if a number is a strong number. | Loops without Arrays/Strings | [`Day22/q043.c`](Day22/q043.c) |
+| Day 22 | 2026-08-30 | Q44: Write a program to find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + …… | Loops without Arrays/Strings | [`Day22/q044.c`](Day22/q044.c) |
