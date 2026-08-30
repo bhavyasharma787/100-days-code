@@ -52,3 +52,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 20 | 2026-08-28 | Q40: Write a program to find the 1’s complement of a binary number and print… | Loops without Arrays/Strings | [`Day20/q040.c`](Day20/q040.c) |
 | Day 21 | 2026-08-29 | Q41: Write a program to swap the first and last digit of a number. | Loops without Arrays/Strings | [`Day21/q041.c`](Day21/q041.c) |
 | Day 21 | 2026-08-29 | Q42: Write a program to check if a number is a perfect number. | Loops without Arrays/Strings | [`Day21/q042.c`](Day21/q042.c) |
+| Day 22 | 2026-08-30 | Q43: Write a program to check if a number is a strong number. | Loops without Arrays/Strings | [`Day22/q043.c`](Day22/q043.c) |
