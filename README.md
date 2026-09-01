@@ -56,3 +56,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 22 | 2026-08-30 | Q44: Write a program to find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + …… | Loops without Arrays/Strings | [`Day22/q044.c`](Day22/q044.c) |
 | Day 23 | 2026-08-31 | Q45: Write a program to find the sum of the series: 2/3 + 4/7 + 6/11 + 8/15… | Loops without Arrays/Strings | [`Day23/q045.c`](Day23/q045.c) |
 | Day 23 | 2026-08-31 | Q46: Write a program to print the following pattern: ***** ***** ***** *****… | Nested Loops without Arrays/Strings | [`Day23/q046.c`](Day23/q046.c) |
+| Day 24 | 2026-09-01 | Q47: Write a program to print the following pattern: * ** *** **** ***** | Nested Loops without Arrays/Strings | [`Day24/q047.c`](Day24/q047.c) |
