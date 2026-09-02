@@ -58,3 +58,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 23 | 2026-08-31 | Q46: Write a program to print the following pattern: ***** ***** ***** *****… | Nested Loops without Arrays/Strings | [`Day23/q046.c`](Day23/q046.c) |
 | Day 24 | 2026-09-01 | Q47: Write a program to print the following pattern: * ** *** **** ***** | Nested Loops without Arrays/Strings | [`Day24/q047.c`](Day24/q047.c) |
 | Day 24 | 2026-09-01 | Q48: Write a program to print the following pattern: 1 12 123 1234 12345 | Nested Loops without Arrays/Strings | [`Day24/q048.c`](Day24/q048.c) |
+| Day 25 | 2026-09-02 | Q49: Write a program to print the following pattern: 5 45 345 2345 12345 | Nested Loops without Arrays/Strings | [`Day25/q049.c`](Day25/q049.c) |
