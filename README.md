@@ -65,3 +65,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 27 | 2026-09-04 | Q53: Write a program to print the following pattern: * *** ***** ******* ***… | Nested Loops without Arrays/Strings | [`Day27/q053.c`](Day27/q053.c) |
 | Day 27 | 2026-09-04 | Q54: Write a program to print the following pattern:     *   ***  ***** ****… | Nested Loops without Arrays/Strings | [`Day27/q054.c`](Day27/q054.c) |
 | Day 28 | 2026-09-05 | Q55: Write a program to print all the prime numbers from 1 to n. | Nested Loops without Arrays/Strings | [`Day28/q055.c`](Day28/q055.c) |
+| Day 28 | 2026-09-05 | Q56: Read and print elements of a one-dimensional array. | Arrays (1D) | [`Day28/q056.c`](Day28/q056.c) |
