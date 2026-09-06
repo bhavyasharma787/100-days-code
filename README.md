@@ -67,3 +67,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 28 | 2026-09-05 | Q55: Write a program to print all the prime numbers from 1 to n. | Nested Loops without Arrays/Strings | [`Day28/q055.c`](Day28/q055.c) |
 | Day 28 | 2026-09-05 | Q56: Read and print elements of a one-dimensional array. | Arrays (1D) | [`Day28/q056.c`](Day28/q056.c) |
 | Day 29 | 2026-09-06 | Q57: Find the sum of array elements. | Arrays (1D) | [`Day29/q057.c`](Day29/q057.c) |
+| Day 29 | 2026-09-06 | Q58: Find the maximum and minimum element in an array. | Arrays (1D) | [`Day29/q058.c`](Day29/q058.c) |
