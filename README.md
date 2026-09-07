@@ -69,3 +69,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 29 | 2026-09-06 | Q57: Find the sum of array elements. | Arrays (1D) | [`Day29/q057.c`](Day29/q057.c) |
 | Day 29 | 2026-09-06 | Q58: Find the maximum and minimum element in an array. | Arrays (1D) | [`Day29/q058.c`](Day29/q058.c) |
 | Day 30 | 2026-09-07 | Q59: Count even and odd numbers in an array. | Arrays (1D) | [`Day30/q059.c`](Day30/q059.c) |
+| Day 30 | 2026-09-07 | Q60: Count positive, negative, and zero elements in an array. | Arrays (1D) | [`Day30/q060.c`](Day30/q060.c) |
