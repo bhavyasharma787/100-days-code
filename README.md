@@ -73,3 +73,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 31 | 2026-09-08 | Q61: Search for an element in an array using linear search. | Arrays (1D) | [`Day31/q061.c`](Day31/q061.c) |
 | Day 31 | 2026-09-08 | Q62: Reverse an array without taking extra space. | Arrays (1D) | [`Day31/q062.c`](Day31/q062.c) |
 | Day 32 | 2026-09-09 | Q63: Merge two arrays. | Arrays (1D) | [`Day32/q063.c`](Day32/q063.c) |
+| Day 32 | 2026-09-09 | Q64: Find the digit that occurs the most times in an integer number. | Arrays (1D) | [`Day32/q064.c`](Day32/q064.c) |
