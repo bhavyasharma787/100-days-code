@@ -75,3 +75,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 32 | 2026-09-09 | Q63: Merge two arrays. | Arrays (1D) | [`Day32/q063.c`](Day32/q063.c) |
 | Day 32 | 2026-09-09 | Q64: Find the digit that occurs the most times in an integer number. | Arrays (1D) | [`Day32/q064.c`](Day32/q064.c) |
 | Day 33 | 2026-09-10 | Q65: Search in a sorted array using binary search. | Arrays (1D) | [`Day33/q065.c`](Day33/q065.c) |
+| Day 33 | 2026-09-10 | Q66: Insert an element in a sorted array at the appropriate position. | Arrays (1D) | [`Day33/q066.c`](Day33/q066.c) |
