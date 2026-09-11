@@ -77,3 +77,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 33 | 2026-09-10 | Q65: Search in a sorted array using binary search. | Arrays (1D) | [`Day33/q065.c`](Day33/q065.c) |
 | Day 33 | 2026-09-10 | Q66: Insert an element in a sorted array at the appropriate position. | Arrays (1D) | [`Day33/q066.c`](Day33/q066.c) |
 | Day 34 | 2026-09-11 | Q67: Insert an element in an array at a given position. | Arrays (1D) | [`Day34/q067.c`](Day34/q067.c) |
+| Day 34 | 2026-09-11 | Q68: Delete an element from an array. | Arrays (1D) | [`Day34/q068.c`](Day34/q068.c) |
