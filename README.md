@@ -79,3 +79,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 34 | 2026-09-11 | Q67: Insert an element in an array at a given position. | Arrays (1D) | [`Day34/q067.c`](Day34/q067.c) |
 | Day 34 | 2026-09-11 | Q68: Delete an element from an array. | Arrays (1D) | [`Day34/q068.c`](Day34/q068.c) |
 | Day 35 | 2026-09-12 | Q69: Find the second largest element in an array. | Arrays (1D) | [`Day35/q069.c`](Day35/q069.c) |
+| Day 35 | 2026-09-12 | Q70: Rotate an array to the right by k positions. | Arrays (1D) | [`Day35/q070.c`](Day35/q070.c) |
