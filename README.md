@@ -84,3 +84,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 36 | 2026-09-13 | Q72: Find the sum of all elements in a matrix. | 2D Arrays | [`Day36/q072.c`](Day36/q072.c) |
 | Day 37 | 2026-09-14 | Q73: Find the sum of each row of a matrix and store it in an array. | 2D Arrays | [`Day37/q073.c`](Day37/q073.c) |
 | Day 37 | 2026-09-14 | Q74: Find the transpose of a matrix. | 2D Arrays | [`Day37/q074.c`](Day37/q074.c) |
+| Day 38 | 2026-09-15 | Q75: Add two matrices. | 2D Arrays | [`Day38/q075.c`](Day38/q075.c) |
