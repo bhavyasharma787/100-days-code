@@ -88,3 +88,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 38 | 2026-09-15 | Q76: Check if a matrix is symmetric. | 2D Arrays | [`Day38/q076.c`](Day38/q076.c) |
 | Day 39 | 2026-09-16 | Q77: Check if the elements on the diagonal of a matrix are distinct. | 2D Arrays | [`Day39/q077.c`](Day39/q077.c) |
 | Day 39 | 2026-09-16 | Q78: Find the sum of main diagonal elements for a square matrix. | 2D Arrays | [`Day39/q078.c`](Day39/q078.c) |
+| Day 40 | 2026-09-17 | Q79: Perform diagonal traversal of a matrix. | 2D Arrays | [`Day40/q079.c`](Day40/q079.c) |
