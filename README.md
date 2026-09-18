@@ -90,3 +90,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 39 | 2026-09-16 | Q78: Find the sum of main diagonal elements for a square matrix. | 2D Arrays | [`Day39/q078.c`](Day39/q078.c) |
 | Day 40 | 2026-09-17 | Q79: Perform diagonal traversal of a matrix. | 2D Arrays | [`Day40/q079.c`](Day40/q079.c) |
 | Day 40 | 2026-09-17 | Q80: Multiply two matrices. | 2D Arrays | [`Day40/q080.c`](Day40/q080.c) |
+| Day 41 | 2026-09-18 | Q81: Count characters in a string without using built-in length functions. | Strings | [`Day41/q081.c`](Day41/q081.c) |
