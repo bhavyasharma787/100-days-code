@@ -93,3 +93,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 41 | 2026-09-18 | Q81: Count characters in a string without using built-in length functions. | Strings | [`Day41/q081.c`](Day41/q081.c) |
 | Day 41 | 2026-09-18 | Q82: Print each character of a string on a new line. | Strings | [`Day41/q082.c`](Day41/q082.c) |
 | Day 42 | 2026-09-19 | Q83: Count vowels and consonants in a string. | Strings | [`Day42/q083.c`](Day42/q083.c) |
+| Day 42 | 2026-09-19 | Q84: Convert a lowercase string to uppercase without using built-in function… | Strings | [`Day42/q084.c`](Day42/q084.c) |
