@@ -92,3 +92,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 40 | 2026-09-17 | Q80: Multiply two matrices. | 2D Arrays | [`Day40/q080.c`](Day40/q080.c) |
 | Day 41 | 2026-09-18 | Q81: Count characters in a string without using built-in length functions. | Strings | [`Day41/q081.c`](Day41/q081.c) |
 | Day 41 | 2026-09-18 | Q82: Print each character of a string on a new line. | Strings | [`Day41/q082.c`](Day41/q082.c) |
+| Day 42 | 2026-09-19 | Q83: Count vowels and consonants in a string. | Strings | [`Day42/q083.c`](Day42/q083.c) |
