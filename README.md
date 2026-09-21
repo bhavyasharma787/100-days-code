@@ -97,3 +97,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 43 | 2026-09-20 | Q85: Reverse a string. | Strings | [`Day43/q085.c`](Day43/q085.c) |
 | Day 43 | 2026-09-20 | Q86: Check if a string is a palindrome. | Strings | [`Day43/q086.c`](Day43/q086.c) |
 | Day 44 | 2026-09-21 | Q87: Count spaces, digits, and special characters in a string. | Strings | [`Day44/q087.c`](Day44/q087.c) |
+| Day 44 | 2026-09-21 | Q88: Replace spaces with hyphens in a string. | Strings | [`Day44/q088.c`](Day44/q088.c) |
