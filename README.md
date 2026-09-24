@@ -103,3 +103,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 46 | 2026-09-23 | Q91: Remove all vowels from a string. | Strings | [`Day46/q091.c`](Day46/q091.c) |
 | Day 46 | 2026-09-23 | Q92: Find the first repeating lowercase alphabet in a string. | Strings | [`Day46/q092.c`](Day46/q092.c) |
 | Day 47 | 2026-09-24 | Q93: Check if two strings are anagrams of each other. | Strings | [`Day47/q093.c`](Day47/q093.c) |
+| Day 47 | 2026-09-24 | Q94: Find the longest word in a sentence. | Strings | [`Day47/q094.c`](Day47/q094.c) |
