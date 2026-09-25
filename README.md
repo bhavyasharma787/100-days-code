@@ -104,3 +104,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 46 | 2026-09-23 | Q92: Find the first repeating lowercase alphabet in a string. | Strings | [`Day46/q092.c`](Day46/q092.c) |
 | Day 47 | 2026-09-24 | Q93: Check if two strings are anagrams of each other. | Strings | [`Day47/q093.c`](Day47/q093.c) |
 | Day 47 | 2026-09-24 | Q94: Find the longest word in a sentence. | Strings | [`Day47/q094.c`](Day47/q094.c) |
+| Day 48 | 2026-09-25 | Q95: Check if one string is a rotation of another. | Strings | [`Day48/q095.c`](Day48/q095.c) |
