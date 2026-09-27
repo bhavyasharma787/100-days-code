@@ -108,3 +108,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 48 | 2026-09-25 | Q96: Reverse each word in a sentence without changing the word order. | Strings | [`Day48/q096.c`](Day48/q096.c) |
 | Day 49 | 2026-09-26 | Q97: Print the initials of a name. | Strings | [`Day49/q097.c`](Day49/q097.c) |
 | Day 49 | 2026-09-26 | Q98: Print initials of a name with the surname displayed in full. | Strings | [`Day49/q098.c`](Day49/q098.c) |
+| Day 50 | 2026-09-27 | Q99: Change the date format from dd/04/yyyy to dd-Apr-yyyy. | Strings | [`Day50/q099.c`](Day50/q099.c) |
