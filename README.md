@@ -112,3 +112,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 50 | 2026-09-27 | Q100: Print all sub-strings of a string. | Strings | [`Day50/q100.c`](Day50/q100.c) |
 | Day 51 | 2026-09-28 | Q101: Write a Program to take a sorted array(say nums[]) and an integer (say… | Logic Enhancers | [`Day51/q101.c`](Day51/q101.c) |
 | Day 52 | 2026-09-29 | Q102: Write a Program to take a sorted array arr[] and an integer x as input,… | Logic Enhancers | [`Day52/q102.c`](Day52/q102.c) |
+| Day 53 | 2026-09-30 | Q103: Write a Program to take an array of integers as input, calculate the pi… | Logic Enhancers | [`Day53/q103.c`](Day53/q103.c) |
