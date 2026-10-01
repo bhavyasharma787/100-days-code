@@ -113,3 +113,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 51 | 2026-09-28 | Q101: Write a Program to take a sorted array(say nums[]) and an integer (say… | Logic Enhancers | [`Day51/q101.c`](Day51/q101.c) |
 | Day 52 | 2026-09-29 | Q102: Write a Program to take a sorted array arr[] and an integer x as input,… | Logic Enhancers | [`Day52/q102.c`](Day52/q102.c) |
 | Day 53 | 2026-09-30 | Q103: Write a Program to take an array of integers as input, calculate the pi… | Logic Enhancers | [`Day53/q103.c`](Day53/q103.c) |
+| Day 54 | 2026-10-01 | Q104: Write a Program to take a positive integer n as input, and find the piv… | Logic Enhancers | [`Day54/q104.c`](Day54/q104.c) |
