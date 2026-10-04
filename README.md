@@ -116,3 +116,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 54 | 2026-10-01 | Q104: Write a Program to take a positive integer n as input, and find the piv… | Logic Enhancers | [`Day54/q104.c`](Day54/q104.c) |
 | Day 55 | 2026-10-02 | Q105: Write a program to take an integer array nums of size n, and print the… | Logic Enhancers | [`Day55/q105.c`](Day55/q105.c) |
 | Day 56 | 2026-10-03 | Q106: Write a program to take an array arr[] of integers as input, the task i… | Logic Enhancers | [`Day56/q106.c`](Day56/q106.c) |
+| Day 57 | 2026-10-04 | Q107: Write a program to take an array arr[] of integers as input, the task i… | Logic Enhancers | [`Day57/q107.c`](Day57/q107.c) |
