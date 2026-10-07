@@ -119,3 +119,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 57 | 2026-10-04 | Q107: Write a program to take an array arr[] of integers as input, the task i… | Logic Enhancers | [`Day57/q107.c`](Day57/q107.c) |
 | Day 58 | 2026-10-05 | Q108: Write a Program to take an integer array nums. Print an array answer su… | Logic Enhancers | [`Day58/q108.c`](Day58/q108.c) |
 | Day 59 | 2026-10-06 | Q109: Write a program to take an integer array arr and an integer k as inputs… | Logic Enhancers | [`Day59/q109.c`](Day59/q109.c) |
+| Day 60 | 2026-10-07 | Q110: Write a program to take an integer array arr and an integer k as inputs… | Logic Enhancers | [`Day60/q110.c`](Day60/q110.c) |
