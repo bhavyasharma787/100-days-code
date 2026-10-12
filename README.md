@@ -124,3 +124,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 62 | 2026-10-09 | Q112: Write a program to take an integer array arr as input. The task is to f… | Logic Enhancers | [`Day62/q112.c`](Day62/q112.c) |
 | Day 63 | 2026-10-10 | Q113: Write a program to take an integer array arr and an integer k as inputs… | Logic Enhancers | [`Day63/q113.c`](Day63/q113.c) |
 | Day 64 | 2026-10-11 | Q114: Write a program to take a string s as input. The task is to find the le… | Logic Enhancers | [`Day64/q114.c`](Day64/q114.c) |
+| Day 65 | 2026-10-12 | Q115: Write a program to take two strings s and t as inputs (assume all chara… | Logic Enhancers | [`Day65/q115.c`](Day65/q115.c) |
