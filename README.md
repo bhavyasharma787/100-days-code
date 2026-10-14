@@ -126,3 +126,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 64 | 2026-10-11 | Q114: Write a program to take a string s as input. The task is to find the le… | Logic Enhancers | [`Day64/q114.c`](Day64/q114.c) |
 | Day 65 | 2026-10-12 | Q115: Write a program to take two strings s and t as inputs (assume all chara… | Logic Enhancers | [`Day65/q115.c`](Day65/q115.c) |
 | Day 66 | 2026-10-13 | Q116: Write a program to take an integer array nums which contains only posit… | Logic Enhancers | [`Day66/q116.c`](Day66/q116.c) |
+| Day 67 | 2026-10-14 | Q117: Write a program to take two sorted arrays of size m and n as input. Mer… | Logic Enhancers | [`Day67/q117.c`](Day67/q117.c) |
