@@ -128,3 +128,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 66 | 2026-10-13 | Q116: Write a program to take an integer array nums which contains only posit… | Logic Enhancers | [`Day66/q116.c`](Day66/q116.c) |
 | Day 67 | 2026-10-14 | Q117: Write a program to take two sorted arrays of size m and n as input. Mer… | Logic Enhancers | [`Day67/q117.c`](Day67/q117.c) |
 | Day 68 | 2026-10-15 | Q118: Write a program to take an input array of size n. The array should cont… | Logic Enhancers | [`Day68/q118.c`](Day68/q118.c) |
+| Day 69 | 2026-10-16 | Q119: Write a program to take an integer array as input. Only one element wil… | Logic Enhancers | [`Day69/q119.c`](Day69/q119.c) |
