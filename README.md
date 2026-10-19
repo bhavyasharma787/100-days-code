@@ -131,3 +131,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 69 | 2026-10-16 | Q119: Write a program to take an integer array as input. Only one element wil… | Logic Enhancers | [`Day69/q119.c`](Day69/q119.c) |
 | Day 70 | 2026-10-17 | Q120: Write a program to take a string input. Change it to sentence case. | File Handling | [`Day70/q120.c`](Day70/q120.c) |
 | Day 71 | 2026-10-18 | Q121: Write a C program that creates a text file named info.txt in write mode… | File Handling | [`Day71/q121.c`](Day71/q121.c) |
+| Day 72 | 2026-10-19 | Q122: Write a C program that opens an existing file (e.g., info.txt) and read… | File Handling | [`Day72/q122.c`](Day72/q122.c) |
