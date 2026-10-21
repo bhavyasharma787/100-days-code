@@ -133,3 +133,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 71 | 2026-10-18 | Q121: Write a C program that creates a text file named info.txt in write mode… | File Handling | [`Day71/q121.c`](Day71/q121.c) |
 | Day 72 | 2026-10-19 | Q122: Write a C program that opens an existing file (e.g., info.txt) and read… | File Handling | [`Day72/q122.c`](Day72/q122.c) |
 | Day 73 | 2026-10-20 | Q123: Read a text file and count the total number of characters, words, and l… | File Handling | [`Day73/q123.c`](Day73/q123.c) |
+| Day 74 | 2026-10-21 | Q124: Take two filenames from the user – a source file and a destination file… | File Handling | [`Day74/q124.c`](Day74/q124.c) |
