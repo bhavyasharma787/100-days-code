@@ -137,3 +137,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 75 | 2026-10-22 | Q125: Open an existing file in append mode and allow the user to enter a new… | File Handling | [`Day75/q125.c`](Day75/q125.c) |
 | Day 76 | 2026-10-23 | Q126: Ask the user for a filename. Check if it exists by trying to open it in… | File Handling | [`Day76/q126.c`](Day76/q126.c) |
 | Day 77 | 2026-10-24 | Q127: Write a program that reads text from input.txt, converts all lowercase… | File Handling | [`Day77/q127.c`](Day77/q127.c) |
+| Day 78 | 2026-10-25 | Q128: Read a text file and count how many vowels and consonants are in the fi… | File Handling | [`Day78/q128.c`](Day78/q128.c) |
