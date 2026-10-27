@@ -139,3 +139,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 77 | 2026-10-24 | Q127: Write a program that reads text from input.txt, converts all lowercase… | File Handling | [`Day77/q127.c`](Day77/q127.c) |
 | Day 78 | 2026-10-25 | Q128: Read a text file and count how many vowels and consonants are in the fi… | File Handling | [`Day78/q128.c`](Day78/q128.c) |
 | Day 79 | 2026-10-26 | Q129: A file numbers.txt contains a list of integers separated by spaces. Rea… | File Handling | [`Day79/q129.c`](Day79/q129.c) |
+| Day 80 | 2026-10-27 | Q130: Store multiple student records (name, roll number, marks) into a file u… | File Handling | [`Day80/q130.c`](Day80/q130.c) |
