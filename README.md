@@ -142,3 +142,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 80 | 2026-10-27 | Q130: Store multiple student records (name, roll number, marks) into a file u… | File Handling | [`Day80/q130.c`](Day80/q130.c) |
 | Day 81 | 2026-10-28 | Q131: Create an enumeration for days (SUNDAY to SATURDAY) and print each day… | Enum | [`Day81/q131.c`](Day81/q131.c) |
 | Day 82 | 2026-10-29 | Q132: Define an enum for traffic lights (RED, YELLOW, GREEN) and print 'Stop'… | Enum | [`Day82/q132.c`](Day82/q132.c) |
+| Day 83 | 2026-10-30 | Q133: Create an enum for months and print how many days each month has. | Enum | [`Day83/q133.c`](Day83/q133.c) |
