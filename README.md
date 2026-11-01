@@ -144,3 +144,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 82 | 2026-10-29 | Q132: Define an enum for traffic lights (RED, YELLOW, GREEN) and print 'Stop'… | Enum | [`Day82/q132.c`](Day82/q132.c) |
 | Day 83 | 2026-10-30 | Q133: Create an enum for months and print how many days each month has. | Enum | [`Day83/q133.c`](Day83/q133.c) |
 | Day 84 | 2026-10-31 | Q134: Define an enum with SUCCESS, FAILURE, and TIMEOUT, and print messages a… | Enum | [`Day84/q134.c`](Day84/q134.c) |
+| Day 85 | 2026-11-01 | Q135: Assign explicit values starting from 10 and print them. | Enum | [`Day85/q135.c`](Day85/q135.c) |
