@@ -146,3 +146,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 84 | 2026-10-31 | Q134: Define an enum with SUCCESS, FAILURE, and TIMEOUT, and print messages a… | Enum | [`Day84/q134.c`](Day84/q134.c) |
 | Day 85 | 2026-11-01 | Q135: Assign explicit values starting from 10 and print them. | Enum | [`Day85/q135.c`](Day85/q135.c) |
 | Day 86 | 2026-11-02 | Q136: Use enum to represent menu choices (ADD, SUBTRACT, MULTIPLY) and perfor… | Enum | [`Day86/q136.c`](Day86/q136.c) |
+| Day 87 | 2026-11-03 | Q137: Create an enum for user roles (ADMIN, USER, GUEST) and display messages… | Enum | [`Day87/q137.c`](Day87/q137.c) |
