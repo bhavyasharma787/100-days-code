@@ -149,3 +149,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 87 | 2026-11-03 | Q137: Create an enum for user roles (ADMIN, USER, GUEST) and display messages… | Enum | [`Day87/q137.c`](Day87/q137.c) |
 | Day 88 | 2026-11-04 | Q138: Print all enum names and integer values using a loop. | Enum | [`Day88/q138.c`](Day88/q138.c) |
 | Day 89 | 2026-11-05 | Q139: Show that enums store integers by printing assigned values. | Enum | [`Day89/q139.c`](Day89/q139.c) |
+| Day 90 | 2026-11-06 | Q140: Define a struct with enum Gender and print person's gender. | Enum | [`Day90/q140.c`](Day90/q140.c) |
