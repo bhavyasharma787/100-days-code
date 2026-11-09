@@ -152,3 +152,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 90 | 2026-11-06 | Q140: Define a struct with enum Gender and print person's gender. | Enum | [`Day90/q140.c`](Day90/q140.c) |
 | Day 91 | 2026-11-07 | Q141: Define a structure Student with name, roll_no, and marks, then read and… | Enum | [`Day91/q141.c`](Day91/q141.c) |
 | Day 92 | 2026-11-08 | Q142: Store details of 5 students in an array of structures and print all. | Enum | [`Day92/q142.c`](Day92/q142.c) |
+| Day 93 | 2026-11-09 | Q143: Find and print the student with the highest marks. | Enum | [`Day93/q143.c`](Day93/q143.c) |
