@@ -155,3 +155,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 93 | 2026-11-09 | Q143: Find and print the student with the highest marks. | Enum | [`Day93/q143.c`](Day93/q143.c) |
 | Day 94 | 2026-11-10 | Q144: Write a function that accepts a structure as parameter and prints its m… | Enum | [`Day94/q144.c`](Day94/q144.c) |
 | Day 95 | 2026-11-11 | Q145: Return a structure containing top student's details from a function. | Enum | [`Day95/q145.c`](Day95/q145.c) |
+| Day 96 | 2026-11-12 | Q146: Create Employee structure with nested Date structure for joining date a… | Enum | [`Day96/q146.c`](Day96/q146.c) |
