@@ -158,3 +158,4 @@ Solutions to all **150 C programming problems** from the [100 Days of Code (Basi
 | Day 96 | 2026-11-12 | Q146: Create Employee structure with nested Date structure for joining date a… | Enum | [`Day96/q146.c`](Day96/q146.c) |
 | Day 97 | 2026-11-13 | Q147: Store employee data in a binary file using fwrite() and read using frea… | Enum | [`Day97/q147.c`](Day97/q147.c) |
 | Day 98 | 2026-11-14 | Q148: Take two structs as input and check if they are identical. | Enum | [`Day98/q148.c`](Day98/q148.c) |
+| Day 99 | 2026-11-15 | Q149: Use malloc() to allocate structure memory dynamically and print details. | Enum | [`Day99/q149.c`](Day99/q149.c) |
